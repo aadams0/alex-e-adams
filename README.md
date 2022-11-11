@@ -1,8 +1,8 @@
-# Hi, I'm Alex
+# 🌊 Hi, I'm Alex
 
 Welcome to my GitHub page.
 
-## Some Tech and Tools I've Used...
+### Some tech and tools I've used...
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,20 +29,21 @@ Welcome to my GitHub page.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### What I'm learning now...
 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+### Some things I've always wanted to build...
 
-<!--
-**alex-e-adams/alex-e-adams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ My own custom component library<br />
+🎶 A Spotify menu bar app for Mac<br /> 
+🐈‍⬛ Something that lets me know if I've locked my cat outside<br />
+💪 A calisthenics skill tree mobile app, in the style of an RPG skill tree (actually building this one now)<br />
 
-Here are some ideas to get you started:
+### If you want to contact me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📨 [Email!](alex.e.adams@proton.me)
+ 
+
