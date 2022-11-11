@@ -40,7 +40,7 @@ Welcome to my GitHub page.
 ✨ My own custom component library<br />
 🎶 A Spotify menu bar app for Mac<br /> 
 🐈‍⬛ Something that lets me know if I've locked my cat outside<br />
-💪 A calisthenics skill tree mobile app, in the style of an RPG skill tree (actually building this one now)<br />
+💪 A calisthenics skill tree mobile app, in the style of an old-school RPG skill tree (actually building this one now)<br />
 
 ### If you want to contact me...
 
