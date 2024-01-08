@@ -1,11 +1,11 @@
 # Hi, I'm Alex
 
-Currently working on projects in genetics and genomics at Vanderbilt University Medical Center.
+Currently working on projects in genetics and genomics at Vanderbilt University Medical Center. Interested in identifying links between genetic variants and human health.
 
-* Data workflow frameworks (i.e. Nextflow)
-* Data analysis with R and Python
-* Shell scripting
-* Containerization (i.e. Docker, Singularity)
+* Data workflow frameworks (Nextflow)
+* Data analysis (R, Python)
+* Shell scripting (Bash)
+* Containerization (Docker, Singularity)
 
 ## Some tech and tools I've used in the past...
 
