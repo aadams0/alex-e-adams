@@ -1,4 +1,4 @@
-# 🌊 Hi, I'm Alex
+# Hi, I'm Alex
 
 Welcome to my GitHub page.
 
@@ -30,21 +30,4 @@ Welcome to my GitHub page.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### What I'm dabbling in now...
-
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-### Some things I've always wanted to build...
-
-✨ My own custom component library<br />
-🎶 A Spotify menu bar app for Mac<br /> 
-🐈‍⬛ Something that lets me know if I've locked my cat outside<br />
-💪 A calisthenics skill tree mobile app, in the style of an old-school RPG skill tree (actually building this one now)<br />
-
-### If you want to contact me...
-
-📨 [Email!](alex.e.adams@proton.me)
- 
 
