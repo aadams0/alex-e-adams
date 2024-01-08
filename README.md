@@ -1,4 +1,4 @@
-# Hi, I'm Alex
+# Hello
 
 Currently working on projects in genetics and genomics at Vanderbilt University Medical Center. Interested in identifying links between genetic variants and human health.
 
