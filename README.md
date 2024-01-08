@@ -1,8 +1,13 @@
 # Hi, I'm Alex
 
-Welcome to my GitHub page.
+Currently working on projects in genetics and genomics at Vanderbilt University Medical Center.
 
-### Some tech and tools I've used...
+* Data workflow frameworks (i.e. Nextflow)
+* Data analysis with R and Python
+* Shell scripting
+* Containerization (i.e. Docker, Singularity)
+
+## Some tech and tools I've used in the past...
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
