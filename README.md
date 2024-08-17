@@ -1,7 +1,8 @@
 # Hello
 
-Currently working on projects in genetics and genomics at Vanderbilt University Medical Center. Interested in identifying links between genetic variants and human health.
+Freelance developer with an interest in genetics and human health.
 
+My most recent work has been with
 * Data workflow frameworks (Nextflow)
 * Data analysis (R, Python)
 * Shell scripting (Bash)
