@@ -2,7 +2,8 @@
 
 Freelance developer with an interest in genetics and human health.
 
-My most recent work has been with
+## My most recent work in an academic lab includes...
+
 * Data workflow frameworks (Nextflow)
 * Data analysis (R, Python)
 * Shell scripting (Bash)
