@@ -1,15 +1,15 @@
-# Hello
+# Hello,
 
-Freelance developer with an interest in genetics and human health.
+I am a hobbyist developer with an interest in genetics and human health.
 
-## My most recent work in an academic lab includes...
+### Most recently, I've been working to understand genetic links to cancer, working with...
 
 * Data workflow frameworks (Nextflow)
 * Data analysis (R, Python)
 * Shell scripting (Bash)
 * Containerization (Docker, Singularity)
 
-## Some tech and tools I've used in the past...
+### Some tech and tools I've used in the past...
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
